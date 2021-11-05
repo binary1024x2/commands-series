@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "cmdcore:enable": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "cmdcore:enable"
+    }
+}

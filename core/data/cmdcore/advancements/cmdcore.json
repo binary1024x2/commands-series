@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "binary's Commands Core",
+        "description": "Custom commands for a better vanilla experience",
+        "icon": {
+            "item": "minecraft:command_block"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:binary1024",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
