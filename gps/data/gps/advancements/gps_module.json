@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "binary's GPS",
+        "description": "GPS for Minecraft",
+        "icon": {
+            "item": "minecraft:compass",
+            "nbt": "{Enchantments:[{id:\"minecraft:empty\",lvl:1}]}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:binary1024",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
