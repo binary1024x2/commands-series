@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "binary's Waypoints",
+        "description": "Vanilla waypoints (requires GPS and Teleports)",
+        "icon": {
+            "item": "minecraft:lodestone"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:binary1024",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
