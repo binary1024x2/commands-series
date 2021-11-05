@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "binary's Death Coordinates",
+        "description": "Just in case you didn't see them",
+        "icon": {
+            "item": "minecraft:skeleton_skull"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:binary1024",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
