@@ -1,6 +1,6 @@
 # Teleports
 
-This is a module for [Commands Core](https://github.com/vic797/commands-series/tree/main/core) that provides teleporting capabilities to other data packs from this same series using scoreboards. The code itself is based on [this redit post](https://www.reddit.com/r/MinecraftCommands/comments/dckqlu/teleport_to_scoreboard_values/) with some changes to support interdimensional teleportation and to teleport to negative values in the Y axis.
+This is a module for [Commands Core](https://github.com/vic797/commands-series/tree/main/core) that provides teleporting capabilities to other data packs from this same series using scoreboards. The code itself is based on [this reddit post](https://www.reddit.com/r/MinecraftCommands/comments/dckqlu/teleport_to_scoreboard_values/) with some changes to support interdimensional teleportation and to teleport to negative values in the Y axis.
 
 ## Required Modules
 
@@ -21,3 +21,5 @@ This pack uses [tags](https://minecraft.fandom.com/wiki/Commands/tag) to indenti
 * Use `teleport.tp.overworld` for the Overworld.
 * Use `teleport.tp.the_nether` for The Nether.
 * Use `teleport.tp.the_end` for The End.
+
+> See [do_tp.mcfunction](https://github.com/vic797/commands-series/blob/main/teleports/data/teleports/functions/tp/do_tp.mcfunction).
