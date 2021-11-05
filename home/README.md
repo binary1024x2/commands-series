@@ -6,6 +6,7 @@ This module for [Commands Core](https://github.com/vic797/commands-series/tree/m
 
 * [Commands Core](https://github.com/vic797/commands-series/tree/main/core)
 * [GPS](https://github.com/vic797/commands-series/tree/main/gps)
+* [Teleports](https://github.com/vic797/commands-series/tree/main/teleports)
 
 ## Available Commands
 
