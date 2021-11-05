@@ -1,5 +1,5 @@
-execute as @a at @s if score @s spawn matches 1.. run function waypoints:triggers/spawn
-execute as @a at @s if score @s setspawn matches 1.. run function waypoints:triggers/setspawn
+#execute as @a at @s if score @s spawn matches 1.. run function waypoints:triggers/spawn
+#execute as @a at @s if score @s setspawn matches 1.. run function waypoints:triggers/setspawn
 
 execute as @a at @s if score @s cw-addwaypoint matches 1.. run function waypoints:triggers/addwaypoint
 execute as @a at @s if score @s cw-delwaypoint matches 1.. run function waypoints:triggers/delwaypoint

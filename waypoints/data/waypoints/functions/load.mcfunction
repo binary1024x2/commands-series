@@ -1,5 +1,5 @@
-scoreboard objectives add cw-spawn trigger
-scoreboard objectives add cw-setspawn trigger
+#scoreboard objectives add cw-spawn trigger
+#scoreboard objectives add cw-setspawn trigger
 scoreboard objectives add cw-waypoint trigger
 scoreboard objectives add cw-addwaypoint trigger
 scoreboard objectives add cw-delwaypoint trigger
