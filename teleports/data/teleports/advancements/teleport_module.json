@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "binary's Teleport Library",
+        "description": "Teleporting library for binary's CMD Core",
+        "icon": {
+            "item": "minecraft:compass"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:binary1024",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
