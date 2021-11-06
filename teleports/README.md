@@ -23,3 +23,15 @@ This pack uses [tags](https://minecraft.fandom.com/wiki/Commands/tag) to indenti
 * Use `teleport.tp.the_end` for The End.
 
 > See [do_tp.mcfunction](https://github.com/vic797/commands-series/blob/main/teleports/data/teleports/functions/tp/do_tp.mcfunction).
+
+## Standalone usage
+
+This data pack can be used as an standalone data pack. Just add `"teleports:load"` to the `#minecraft:load` tag.
+
+```json
+{
+    "values": [
+        "teleports:load"
+    ]
+}
+```
