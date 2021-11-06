@@ -7,6 +7,6 @@ execute if predicate teleports:player_in_overworld run data modify storage telep
 execute if predicate teleports:player_in_the_end run data modify storage teleports:locations spawn.dimension set value "minecraft:the_end"
 execute if predicate teleports:player_in_the_nether run data modify storage teleports:locations spawn.dimension set value "minecraft:the_nether"
 
-tellraw @s[tag=!global.ignore.gui] {"text":"Updated spawn location","color":"dark_aqua"}
+tellraw @s {"text":"Updated spawn location","color":"dark_aqua"}
 scoreboard players reset @s cw-setspawn
 scoreboard players enable @s cw-setspawn

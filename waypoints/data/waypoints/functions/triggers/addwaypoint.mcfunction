@@ -17,7 +17,7 @@ execute store result storage teleports:locations waypoint.id int 1 run scoreboar
 data modify storage teleports:locations waypoints append from storage teleports:locations waypoint
 data remove storage teleports:locations waypoint
 
-tellraw @s[tag=!global.ignore.gui] {"text":"Created new waypoint","color":"dark_aqua"}
+tellraw @s {"text":"Created new waypoint","color":"dark_aqua"}
 
 scoreboard players reset @s cw-addwaypoint
 scoreboard players enable @s cw-addwaypoint

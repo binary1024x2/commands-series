@@ -1,5 +1,5 @@
-tellraw @s[tag=!global.ignore.gui] {"text":"Waypoints","color":"dark_aqua"}
-tellraw @s[tag=!global.ignore.gui] {"text":""}
+tellraw @s {"text":"Waypoints","color":"dark_aqua"}
+tellraw @s {"text":""}
 
 summon minecraft:marker ~ ~0.5 ~ {Tags:["global.ignore","waypoints.waypoints"],data:{entries:[]}}
 data modify entity @e[tag=waypoints.waypoints,distance=0..0.5,limit=1] data.entries set from storage teleports:locations waypoints
