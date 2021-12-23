@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "binary's Light",
+        "description": "Helpful light metter",
+        "icon": {
+            "item": "minecraft:light"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:binary1024",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

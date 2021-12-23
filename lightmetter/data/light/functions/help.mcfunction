@@ -1,0 +1,1 @@
+tellraw @s [{"text":"/trigger cl-light","color":"green"},{"text":" "},{"text":"toggles the light metter","color":"white"}]

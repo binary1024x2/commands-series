@@ -1,0 +1,16 @@
+execute if predicate light:light_0 run title @s actionbar {"text":"0 \u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_1 run title @s actionbar {"text":"1 \u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_2 run title @s actionbar {"text":"2 \u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_3 run title @s actionbar {"text":"3 \u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_4 run title @s actionbar {"text":"4 \u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_5 run title @s actionbar {"text":"5 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_6 run title @s actionbar {"text":"6 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_7 run title @s actionbar {"text":"7 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"red"}
+execute if predicate light:light_8 run title @s actionbar {"text":"8 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"green"}
+execute if predicate light:light_9 run title @s actionbar {"text":"9 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb\u25cb","color":"green"}
+execute if predicate light:light_10 run title @s actionbar {"text":"10 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb\u25cb","color":"green"}
+execute if predicate light:light_11 run title @s actionbar {"text":"11 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb\u25cb","color":"green"}
+execute if predicate light:light_12 run title @s actionbar {"text":"12 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb\u25cb","color":"green"}
+execute if predicate light:light_13 run title @s actionbar {"text":"13 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb\u25cb","color":"green"}
+execute if predicate light:light_14 run title @s actionbar {"text":"14 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cb","color":"green"}
+execute if predicate light:light_15 run title @s actionbar {"text":"15 \u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf","color":"green"}
