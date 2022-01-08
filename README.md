@@ -21,6 +21,7 @@ All this extensions require [Core](https://github.com/vic797/commands-series/tre
 * [Homes](https://github.com/vic797/commands-series/tree/main/home) provides a way to get a single _Home_ location and teleport there in vanilla survival.
 * [Teleports](https://github.com/vic797/commands-series/tree/main/teleports) provides teleporting capabilities to other data packs from this same series using scoreboards.
 * [Waypoints](https://github.com/vic797/commands-series/tree/main/waypoints) provides public interdimensional waypoints that can be edited easily.
+* [Light](https://github.com/vic797/commands-series/tree/main/lightmetter) a useful light meter.
 
 ## License
 
